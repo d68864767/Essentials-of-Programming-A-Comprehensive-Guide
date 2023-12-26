@@ -1,0 +1,12 @@
+#### Chapter 11: Web Programming Basics
+
+##### Understanding web technologies
+Web technologies are the markup languages and multimedia packages computers use to communicate. Some of the core web technologies include HTML, CSS, and JavaScript. HTML (HyperText Markup Language) is the standard markup language used to create web pages. CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of a document written in HTML. JavaScript is a high-level, interpreted programming language that is primarily used to enhance web pages to provide for a more user-friendly experience.
+
+##### Client-side vs. server-side programming
+Web development is typically divided into two parts: client-side (or front-end) and server-side (or back-end) programming. Client-side programming involves creating the interface that users interact with. This is done using languages like HTML, CSS, and JavaScript. On the other hand, server-side programming involves creating the logic to handle data, user authentication, and more. This is done using languages like PHP, Python, Java, and Ruby.
+
+##### Simple web application development
+Developing a simple web application involves several steps. First, you need to design the user interface using HTML and CSS. Then, you can add interactivity to the interface using JavaScript. Next, you need to set up a server to handle requests from the client. This can be done using a variety of languages and frameworks, such as Node.js with Express for JavaScript, Flask or Django for Python, or Ruby on Rails for Ruby. Finally, you need to set up a database to store data. This can be a SQL database like MySQL or PostgreSQL, or a NoSQL database like MongoDB.
+
+Remember, the key to mastering programming is practice. Don't rush through the chapters. Take your time to understand each concept and practice coding regularly. Happy coding!

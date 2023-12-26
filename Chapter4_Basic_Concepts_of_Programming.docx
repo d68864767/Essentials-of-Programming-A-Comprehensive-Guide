@@ -1,0 +1,12 @@
+#### Chapter 4: Basic Concepts of Programming
+
+##### Variables and data types
+In programming, a variable is a storage location, with a specific type and an associated name, which contains a value that can be changed during the program execution. The type of a variable determines what kind of data it can hold. Common data types include integers, floating-point numbers, strings, and booleans.
+
+##### Operators and expressions
+Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result. The basic types of operators in programming include arithmetic operators, comparison operators, logical operators, and assignment operators. An expression is a combination of variables, values, and operators that yields a result value.
+
+##### Control structures: if-else, switch-case
+Control structures allow you to control the flow of your program's execution based upon conditions known only during run time. The 'if-else' statement is a simple control structure that executes a block of code if a specified condition is true, and another block of code if it is false. The 'switch-case' statement is a multi-way branch statement that chooses which block of code to execute based on the value of an expression.
+
+Remember, the key to mastering programming is practice. Don't rush through the chapters. Take your time to understand each concept and practice coding regularly. Happy coding!

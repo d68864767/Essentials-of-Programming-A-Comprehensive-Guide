@@ -1,0 +1,20 @@
+#### Chapter 10: Database Connectivity and Management
+
+##### Basics of database programming
+In programming, a database is an organized collection of data stored and accessed electronically. Databases are crucial for storing, retrieving, and manipulating data in a structured way. They can be classified into two types: relational databases (like MySQL, PostgreSQL) and non-relational or NoSQL databases (like MongoDB, Cassandra). 
+
+Database programming involves interacting with the database using a database management system (DBMS) and a database language like SQL (Structured Query Language). The DBMS is a software system that uses a standard method of cataloging, retrieving, and running queries on data. 
+
+##### SQL and NoSQL databases
+SQL databases are based on structured query language (SQL) for defining and manipulating the data. They are known for their simplicity, reliability, and robustness. SQL databases are primarily used when the data structure is not going to change over time, and you need to perform complex queries.
+
+On the other hand, NoSQL databases are used for large sets of distributed data. They are not based on SQL and do not use the relational model. NoSQL databases are highly scalable and flexible, allowing for rapid adjustment to the structure of your data.
+
+##### Connecting a program to a database
+Connecting a program to a database involves several steps. First, you need to install a database connector that acts as a bridge between your program and the database. This connector can be a library or a module in your programming language that understands how to interact with your specific type of database.
+
+Once the connector is installed, you can write code to establish a connection to the database. This usually involves specifying the database's location (often a URL), the name of the database, and any necessary authentication information (like a username and password).
+
+After the connection is established, you can use your programming language's database functions to send queries to the database, retrieve results, and handle any errors that might occur.
+
+Remember, the key to mastering programming is practice. Don't rush through the chapters. Take your time to understand each concept and practice coding regularly. Happy coding!

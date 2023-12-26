@@ -1,0 +1,21 @@
+#### Chapter 2: Understanding Programming Languages
+
+##### High-level vs. low-level languages
+Programming languages can be categorized into high-level and low-level languages. High-level languages are closer to human language and are easier to write, read, and maintain. They are usually independent of the machine and require a compiler or interpreter to translate the code into machine language. Examples include Python, Java, and C++. 
+
+On the other hand, low-level languages are closer to machine language and are more difficult to understand and write. They are usually specific to a particular hardware and run faster as they do not require translation. Examples include Assembly and Machine language.
+
+##### Interpreted vs. compiled languages
+Programming languages can also be classified as interpreted or compiled. Interpreted languages are translated into machine code line by line during runtime, which makes them slower but easier to debug. Examples include Python and JavaScript.
+
+Compiled languages, on the other hand, are translated into machine code before runtime, which makes them faster. However, they are harder to debug as the entire code is compiled at once. Examples include C++ and Java.
+
+##### Popular programming languages and their uses
+There are hundreds of programming languages, each designed for a specific purpose. Here are a few popular ones:
+
+- Python: Known for its simplicity, Python is widely used in web development, data analysis, artificial intelligence, and machine learning.
+- Java: A versatile language, Java is used in web development, mobile app development (especially Android apps), and desktop applications.
+- C++: Known for its efficiency, C++ is used in game development, real-time systems, and high-performance applications.
+- JavaScript: Primarily used in web development, JavaScript allows you to create interactive websites.
+
+Remember, the key to mastering programming is practice. Don't rush through the chapters. Take your time to understand each concept and practice coding regularly. Happy coding!

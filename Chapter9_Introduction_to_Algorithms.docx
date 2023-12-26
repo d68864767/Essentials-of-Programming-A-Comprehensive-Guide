@@ -1,0 +1,12 @@
+#### Chapter 9: Introduction to Algorithms
+
+##### Algorithm design and analysis
+Algorithms are a set of instructions designed to perform a specific task. They are the building blocks of programs and are essential for performing complex computations and data processing. Designing an algorithm involves creating a step-by-step procedure to solve a particular problem. Once an algorithm is designed, it is important to analyze it to determine its efficiency in terms of time and space complexity.
+
+##### Basic algorithms: Sorting, searching
+Sorting and searching are two fundamental operations in computer science. Sorting involves arranging data in a particular order (ascending or descending), while searching involves finding a particular data item in a collection of data. There are various algorithms to perform these operations, each with its own advantages and disadvantages. Some of the common sorting algorithms include Bubble Sort, Selection Sort, and Quick Sort. Similarly, Linear Search and Binary Search are commonly used for searching operations.
+
+##### Algorithm efficiency and Big O notation
+The efficiency of an algorithm can be measured by its time complexity and space complexity. Time complexity refers to the computational complexity that describes the amount of time taken by an algorithm to run, as a function of the size of the input to the program. Space complexity is a measure of the amount of memory an algorithm needs to run to completion. Big O notation is used to describe the performance or complexity of an algorithm. For example, an algorithm with a time complexity of O(n) means that the time to complete the task grows linearly with the size of the input data.
+
+Remember, the key to mastering algorithms is understanding and practice. Don't rush through the concepts. Take your time to understand each concept and practice coding regularly. Happy coding!
